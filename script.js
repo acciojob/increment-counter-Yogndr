@@ -3,6 +3,6 @@ let counter=0;
 function increment() {
 	alert(counter);
 	counter=counter+1;
-	document.getElementById("counter").innerHTML=counter;
+	document.getElementById("counter").textcontent=counter;
 	
 }
